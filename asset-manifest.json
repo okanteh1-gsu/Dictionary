@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dictionary/static/css/main.57147e8d.css",
+    "main.js": "/Dictionary/static/js/main.383547b0.js",
+    "index.html": "/Dictionary/index.html",
+    "static/media/logo.svg": "/Dictionary/static/media/logo.afbe15e827b060eab1c775e3afad2b73.svg",
+    "static/media/icon-moon.svg": "/Dictionary/static/media/icon-moon.fd52e618de9fdb62d0edd814557c07e3.svg",
+    "static/media/icon-search.svg": "/Dictionary/static/media/icon-search.13357ba7763bb4388cba203d0388c375.svg",
+    "static/media/icon-play.svg": "/Dictionary/static/media/icon-play.a659db0104303a8b8ae071e0cf90119d.svg",
+    "main.57147e8d.css.map": "/Dictionary/static/css/main.57147e8d.css.map",
+    "main.383547b0.js.map": "/Dictionary/static/js/main.383547b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57147e8d.css",
+    "static/js/main.383547b0.js"
+  ]
+}
